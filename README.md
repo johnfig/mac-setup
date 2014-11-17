@@ -1,30 +1,30 @@
 # Development Utility Apps
 
-### Caffeine (keeps computer from falling asleep)
+* ### Caffeine (keeps computer from falling asleep)
 
-### ShiftIt (window manipulation)
+* ### ShiftIt (window manipulation)
 
-### iTerm (terminal)
+* ### iTerm (terminal)
 
-### ngrok (secure introspectable tunnels to localhost)
+* ### ngrok (secure introspectable tunnels to localhost)
 
-### ClipMenu (clipboard manager)
+* ### ClipMenu (clipboard manager)
 
 # Utility Apps
 
-### Google Drive (cloud storage)
+* ### Google Drive (cloud storage)
 
-### Transporter (local storage)
+* ### Transporter (local storage)
 
-### CloudApp (screenshots to cloud)
+* ### CloudApp (screenshots to cloud)
 
-### Sync Folder Pro (file syncing)
+* ### Sync Folder Pro (file syncing)
 
-### 1Password (password manager)
+* ### 1Password (password manager)
 
 # Trading Applications
 
-### Thinkorswim
+* ### Thinkorswim
 
-### Interactive Brokers
+* ### Interactive Brokers
 
