@@ -1,30 +1,30 @@
 # Development Utility Apps
 
-* ### Caffeine (keeps computer from falling asleep)
+* ### [Caffeine](http://caffeine.en.softonic.com/mac) (keeps computer from falling asleep)
 
-* ### ShiftIt (window manipulation)
+* ### [ShiftIt](https://github.com/fikovnik/ShiftIt) (window manipulation)
 
-* ### iTerm (terminal)
+* ### [iTerm](http://iterm2.com/) (terminal)
 
-* ### ngrok (secure introspectable tunnels to localhost)
+* ### [ngrok](https://ngrok.com/) (secure introspectable tunnels to localhost)
 
-* ### ClipMenu (clipboard manager)
+* ### [ClipMenu](http://www.clipmenu.com/) (clipboard manager)
 
 # Utility Apps
 
-* ### Google Drive (cloud storage)
+* ### [Google Drive](https://www.google.com/drive/download/) (cloud storage)
 
-* ### Transporter (local storage)
+* ### [Transporter](https://secure.connecteddata.com/download/desktop) (local storage)
 
-* ### CloudApp (screenshots to cloud)
+* ### [CloudApp](https://www.getcloudapp.com/download/) (screenshots to cloud)
 
-* ### Sync Folder Pro (file syncing)
+* ### [Sync Folder Pro](http://www.greenworldsoft.com/#Sync_Folders_Pro) (file syncing)
 
-* ### 1Password (password manager)
+* ### [1Password](https://agilebits.com/onepassword) (password manager)
 
 # Trading Applications
 
-* ### Thinkorswim
+* ### [Thinkorswim](https://www.thinkorswim.com/tos/displayPage.tos?webpage=clientApplication&displayFormat=hide)
 
-* ### Interactive Brokers
+* ### [Interactive Brokers](https://www.interactivebrokers.com/en/index.php?f=674&os=mac&ib_entity=llc)
 
