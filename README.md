@@ -22,6 +22,8 @@
 
 * ### [1Password](https://agilebits.com/onepassword) (password manager)
 
+* ### [Gimp](http://www.gimp.org/) (Free Developer Photoshop) 
+
 # Trading Applications
 
 * ### [Thinkorswim](https://www.thinkorswim.com/tos/displayPage.tos?webpage=clientApplication&displayFormat=hide)
