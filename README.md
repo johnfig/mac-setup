@@ -8,7 +8,7 @@
 
 * ### [ngrok](https://ngrok.com/) (secure introspectable tunnels to localhost)
 
-* ### [ClipMenu](http://www.clipmenu.com/) (clipboard manager)
+* ### [Butler](http://manytricks.com/butler/) (clipboard manager)
 
 # Utility Apps
 
